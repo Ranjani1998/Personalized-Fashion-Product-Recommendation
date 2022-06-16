@@ -13,3 +13,15 @@ Dataset can be found [here](https://www.kaggle.com/competitions/h-and-m-personal
 * Content based filtering (Time Decay concept)
 * Collaborative based filtering
 * SVD recommendation
+
+### Results 
+
+![](https://github.com/Ranjani1998/Personalized-Fashion-Product-Recommendation/blob/main/assets/Results.png)
+
+### Techstack
+
+**Python version** : 3.7 <br>
+**Packages**: pandas, numpy, sklearn, xgboost, fastapi, seaborn, pyspark, reco <br>
+
+
+
