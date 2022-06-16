@@ -4,7 +4,7 @@ This Repository accompanying the codes for my thesis **Personalized Fashion Prod
 
 ### Dataset 
 
-Dataset can be found [here](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data)
+Dataset can be found [here](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) 
 
 ### Models
 
