@@ -21,7 +21,7 @@ Dataset can be found [here](https://www.kaggle.com/competitions/h-and-m-personal
 ### Techstack
 
 **Python version** : 3.7 <br>
-**Packages**: pandas, numpy, sklearn, xgboost, fastapi, seaborn, pyspark, reco <br>
+**Packages**: pandas, numpy, sklearn, matplotlib, seaborn, pyspark, reco <br>
 
 
 
